@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.patient-info p {
+    margin-bottom: 10px;
+}
+
+.patient-info strong {
+    font-weight: bold;
+}
+
+.hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.recommendation {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e9f5f7;
+    border-left: 4px solid #17a2b8;
+}
+
+.alert-info {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+
+.alert-info strong {
+    font-weight: bold;
+    color: #0c5460;
+}
+
+.alert-info p {
+    margin-bottom: 0;
+}
